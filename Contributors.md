@@ -8,7 +8,8 @@
 - [Arman Karimi](https://github.com/iArmanKarimi/)
 - [SleepyPeanut] (https://github.com/sleepypeanut)
 - [Pradeep Kurapati] (https://github.com/Pradeep-Kurapati)
-- [Aibek Z] (https://github.com/aibekz)
+- [Aibek Z] (https://github.com/aibek
+- [Sparsh Lavate @ Devsoc](https://github.com/Nydra1605)
 - [Faisal Saifi](https://github.com/faisalsaifii)
 - [Vishal Kanwar](https://github.com/Kanvi1)
 - [Alvin James Bellero](https://github.com/shiftEscape)
